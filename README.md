@@ -1,5 +1,5 @@
 # htmlsite-universidade
-Um projeto simples de site HTML para uma universidade fictícia. Documentação e projetos para HTML, a partir dos meus estudos para WEB.
+Um projeto simples de site HTML para uma universidade fictícia. Documentação e projetos para HTML, a partir dos meus estudos para WEB. Esse resumo foi feito por mim enqunato estaduva o necessário para fazer esse site simples em HTML.
 
 
 
