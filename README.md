@@ -1,5 +1,5 @@
 # htmlsite-universidade
-Um projeto simples de site HTML PURO para uma universidade fictícia. Documentação e projetos para HTML, a partir dos meus estudos para WEB. Esse resumo foi feito por mim enqunato estaduva o necessário para fazer esse site simples em HTML.
+Um projeto simples de site HTML PURO para uma universidade fictícia. Documentação e projetos para HTML, a partir dos meus estudos para WEB. Esse resumo foi feito por mim enqunato estaduva o necessário para fazer esse site simples em HTML para ter uma experiencia arcaica e pura com a linguagem.
 
 
 
